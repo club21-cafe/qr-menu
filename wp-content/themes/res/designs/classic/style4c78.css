@@ -45,7 +45,7 @@
 .menu-design--classic .category-name-ar,
 .menu-design--classic .category-description-ar,
 .menu-design--classic .restaurant-description-ar, body * {
-  font-family: cairo, serif;
+  font-family: cairo, sans-serif;
 }
 
 .menu-design--classic .menu-name-en,
@@ -54,7 +54,7 @@
 .menu-design--classic .category-description-en,
 .menu-design--classic .restaurant-name-en,
 .menu-design--classic .restaurant-description-en {
-  font-family: "Lora", serif;
+  font-family: "Lora", sans-serif;
 }
 
 .menu-design--classic .item__name {
